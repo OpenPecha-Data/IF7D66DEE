@@ -10,6 +10,12 @@ source_metadata:
       volume_number: 1
       total_pages: 50
   author: ''
+  volumes:
+    ac8ab374f8f54b60a8ec355d8e3e3146:
+      image_group_id: I5258
+      title: ''
+      volume_number: 1
+      total_pages: 50
 ebook_metadata:
   title: རྔོག་ལོ་ཙཱ་བ་བློ་ལྡན་ཤེས་རབ་ཀྱི་རྣམ་ཐར
   author: ''
